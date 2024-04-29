@@ -5,7 +5,5 @@ body {
     font-size: 18px;
     color: #444;
     display: flex;
-    flex: 1 auto;
-    align-items: center;
     justify-content: center;
 }
