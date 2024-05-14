@@ -8,5 +8,10 @@ body {
 }
 img {
     padding: 0.5em;
-    max-width: 95%;
+    width: 95%;
+}
+@media (min-width: 700px) {
+    img {
+        width: 50%;
+    }
 }
