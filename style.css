@@ -6,13 +6,15 @@ body {
     font-size: 2em;
     color: #444;
 }
-img {
-    padding: 0.5em;
-    width: 95%;
-}
-@media (min-width: 700px) {
+.large-images {
     img {
-        width: 50%;
+        padding: 0.5em;
+        width: 95%;
+    }
+    @media (min-width: 700px) {
+        img {
+            width: 50%;
+        }
     }
 }
 
