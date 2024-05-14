@@ -6,19 +6,17 @@ body {
     font-size: 2em;
     color: #444;
 }
-.large-images {
-    img {
-        padding: 0.5em;
-        width: 95%;
-    }
+
+.large-image {
+    padding: 0.5em;
+    width: 95%;
+
     @media (min-width: 700px) {
-        img {
-            width: 50%;
-        }
+        width: 50%;
     }
 }
 
-.icons {
+.icon {
     img {
         width: 20%;
     }
