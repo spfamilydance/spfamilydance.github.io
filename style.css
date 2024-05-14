@@ -20,7 +20,7 @@ body {
     width: 20%;
 
     @media (min-width: 700px) {
-        width: 10%;
+        width: 7%;
     }
 
 }
