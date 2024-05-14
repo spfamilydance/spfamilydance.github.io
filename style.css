@@ -18,9 +18,10 @@ body {
 
 .icon-image {
     width: 20%;
+    padding: 0.5em;
 
     @media (min-width: 700px) {
-        width: 7%;
+        width: 5%;
     }
 
 }
