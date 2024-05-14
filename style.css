@@ -16,15 +16,11 @@ body {
     }
 }
 
-.icon {
-    img {
-        width: 20%;
-    }
+.icon-image {
+    width: 20%;
 
     @media (min-width: 700px) {
-        img {
-            width: 10%;
-        }
+        width: 10%;
     }
 
 }
